@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1576584114 source:e:\桌面\新建文件夹\campustourguide\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
